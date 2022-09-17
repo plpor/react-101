@@ -10,6 +10,8 @@ function App() {
 		<h2>ได้รับการแก้ไขเป็น version : 2.0</h2>
 		<hr/>
 		<h2>ได้รับการแก้ไขเป็น version : 3.0 (auto deploy)</h2>
+		<hr/>
+		<h2>ได้รับการแก้ไขเป็น version : 4.0 (sourcetree commit)</h2>
       </header>
     </div>
   );
